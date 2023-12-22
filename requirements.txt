@@ -1,0 +1,6 @@
+mingus
+MIDIUtil
+pandas
+python-telegram-bot
+google-cloud-secret-manager
+google-crc32c
